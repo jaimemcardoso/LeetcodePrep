@@ -26,6 +26,6 @@ def is_univalue_list(head):
         if current.val != head.val:
             return False
         current = current.next
-    return TrueÍ
+    return True
     
   
